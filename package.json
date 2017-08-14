@@ -1,0 +1,15 @@
+{
+  "name": "timestamp",
+  "version": "0.0.1",
+  "description": "timestamp microservice for free code camp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "randall fine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "moment": "^2.18.1"
+  }
+}
